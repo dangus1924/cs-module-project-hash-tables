@@ -20,7 +20,7 @@ Task: Implement a basic hash table without collision resolution.
 
 4. Implement the `put()`, `get()`, and `delete()` methods.
 
-You can test this with:
+You can test this with: 
 
 ```
 python test_hashtable_no_collisions.py
